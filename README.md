@@ -1,8 +1,6 @@
 # JavaScript Programs
 This repository contains the JavaScript programs that I have completed and developed since being selected as a mentee under the [`SheCodes`](https://github.com/fromjyce/SheCodes) Foundation. The programs cover a wide range of topics, including core data types, control structures, arrays, functions, and DOM manipulation.
 
-## Structure of the Repository
-
 ## Running the Programs
 The programs have been tested on the Visual Studio Code IDE in Windows 11.
 ***You are free to choose any IDE that suits your needs.***
